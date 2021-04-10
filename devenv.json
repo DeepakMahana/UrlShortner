@@ -1,0 +1,5 @@
+{
+    "LOGS_INFO": true,
+    "MONGO_URI": "mongodb+srv://deepak:deepak123@peppercluster.z7f91.mongodb.net/pepperdb",
+    "SERVICE_PORT": 3000
+}
